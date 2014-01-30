@@ -1,0 +1,14 @@
+Angles
+TSupportSize
+XSupportSize
+TOrders
+XOrders
+YOrders
+Tau
+Alpha
+Sigma
+IntegrationZone
+QuotThreshDen
+QuotThreshNum
+Border
+FastSpatialFiltering
